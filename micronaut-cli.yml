@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: com.eventbrite.eventservice
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, aws-parameter-store, config-consul, consul, discovery-consul, graalvm, gradle, grpc, jib, kotest, kotlin, kotlin-application, kotlin-extension-functions, kubernetes, logback, management, readme, shade, spring, spring-boot, testcontainers, yaml]
